@@ -1,1 +1,4 @@
-This is a resource that educates employees on how to detect phishing emails,suspicous links and online scams to prevents attacks from happening and to protect private information.
+Phishing Awareness Resource
+Project Overview
+This projects aim is to educate people on phishing attacks,how to recognise them and prevent clicking suspicous messages,emails and links.
+Contents: Phishing types-> Different types of phishing attcks, Phishing warning signs ->How to detect suspicious messages, Prevention Tips->Different ways to avoid phishing attacks, What to do after clicking-> Steps to take after clicking a suspicious links
